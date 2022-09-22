@@ -4,5 +4,5 @@
  
  ► Fond of learning new things.
  
- ► 
+ 
  
