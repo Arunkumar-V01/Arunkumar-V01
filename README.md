@@ -1,6 +1,6 @@
  👋 Hi, I’m Arunkumar
  
- ◈Electronics and Communication Engineer.
+ ◈Electronics and Communication engineer
  
  ◈Fond of learning new things.
  
