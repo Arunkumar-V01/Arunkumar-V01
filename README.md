@@ -5,6 +5,8 @@
  ►Fond of learning new things
  
 [![Arunkumar-V01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunkumar-V01)](https://github.com/Arunkumar-V01/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunkumar-V01&show_icons=true&bg_color=00000000
  
  
  
