@@ -4,10 +4,7 @@
  
  ►Fond of learning new things
  
-(https://github-readme-stats.vercel.app/api?username=ArunkumarV-01&hide=contribs,prs)
-
- 
- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunkumarV)](https://github.com/anuraghazra/github-readme-stats)
  
  
  
